@@ -1,2 +1,2 @@
 # AlimentadorPeixe
- Alimentador de Peixe para Arduino
+ Alimentador automático para aquário utilizando Arduino e motor servo.
